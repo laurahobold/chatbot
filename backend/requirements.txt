@@ -1,0 +1,7 @@
+agno
+fastapi[standard]
+openai
+python-dotenv
+uvicorn
+sqlalchemy
+aiosqlite
